@@ -3,7 +3,7 @@ html{
   scroll-behavior: smooth;
 }
 .landing{
-  background-image: url('https://user-images.githubusercontent.com/80380641/150730013-f01d71a0-6464-490a-87f1-aa6a893079b9.png');
+  background-image: url("https://user-images.githubusercontent.com/80380641/150730013-f01d71a0-6464-490a-87f1-aa6a893079b9.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
