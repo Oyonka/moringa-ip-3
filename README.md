@@ -16,7 +16,7 @@ Step 2 : The repository, if downloaded as a .zip file will need to be extracted 
 Step 3 : Open the index.html file to view the application on your preferred web browser.
 
 # BDD
-Formula provided to determine day of birth shows inconsistency in its results (Bug fixed)
+The site is not responsive enough for some devices.
 
 # Technology Used
 HTML CSS JavaScript and JQuery were used.
