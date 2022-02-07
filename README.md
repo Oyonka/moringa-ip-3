@@ -1,30 +1,31 @@
-moringa-ip2
+# moringa-ip2
 Description
 This webpage give information about Delani studios.
 
-Version
+# Version
 Version v1.0
 
-Author
+# Author
 Nyaboke Marasi
 
-Setup Instructions
+# Setup Instructions
 Step 1 : Clone this repository using https://github.com/Oyonka/moringa-ip-3.git, or download a ZIP file of the code.
 
 Step 2 : The repository, if downloaded as a .zip file will need to be extracted on your preferred location and opened
 
 Step 3 : Open the index.html file to view the application on your preferred web browser.
 
-BDD
+# BDD
 Formula provided to determine day of birth shows inconsistency in its results (Bug fixed)
 
-Technology Used
-Javascript Java Bootstrap GIT version control HTML CSS Github Pages The application can be viewed by searching for Akan Name Generator on google or under the link https://github.com/Oyonka/moringa-ip-3.git
+# Technology Used
+HTML CSS JavaScript and JQuery were used.
+https://github.com/Oyonka/moringa-ip-3.git
 
-Contact Information
+# Contact Information
 pioyonka@gmail.com
 
-License and Copyright Information
+# License and Copyright Information
 Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
 
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
