@@ -22,6 +22,9 @@ The site is not responsive enough for some devices.
 HTML CSS JavaScript and JQuery were used.
 https://github.com/Oyonka/moringa-ip-3.git
 
+# Live Page
+https://oyonka.github.io/moringa-ip-3/
+
 # Contact Information
 pioyonka@gmail.com
 
